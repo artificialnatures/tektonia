@@ -1,8 +1,8 @@
 # Tektonia
 
-Tektonia is an environment for prototyping interactive graphical software.
-
 *The term **builder** (as opposed to user) is employed here to refer to people operating Tektonia.*
+
+Tektonia is an environment for prototyping interactive graphical software. Builders can interact with Tektonia by typing, talking, importing files, drawing or by combining interaction modes. Tektonia produces interfaces with text, 2D and 3D graphics, sounds and images that builders can publish as apps or use as a kit of parts to continue prototyping.
 
 ## Principles
 
