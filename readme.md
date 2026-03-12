@@ -31,4 +31,4 @@ Tektonia runs a native app on Linux, macOS, Windows, iOS and Android. It can als
  - AI framework: Mastra (TypeScript) or Rig (Rust)
  - Core logic: Rust library using libraries from the Bevy project
  - Server framework: SvelteKit
- - UI component library: Svelte with Typescript bindings to core logic types
+ - UI component library: Svelte with Typescript bindings to core logic types, [Storybook](https://storybook.js.org/)
